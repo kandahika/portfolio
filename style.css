@@ -40,4 +40,13 @@ section {
     padding: 1rem;
     margin-bottom: 1rem;
 }
- 
+
+.gif-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.gif-container img {
+    max-width: 45%;
+    height: auto;
+}
